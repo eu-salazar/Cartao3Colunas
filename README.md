@@ -5,7 +5,7 @@
 
 Projeto desenvolvido para um desafio do Frontendmentor.
 
-[Clique aqui para acessar]
+[Clique aqui para acessar](https://eu-salazar.github.io/Cartao3Colunas/)
 
 ## Notas:
  

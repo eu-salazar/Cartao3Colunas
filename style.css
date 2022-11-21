@@ -15,6 +15,7 @@ body{
     min-height: 90vh;
     max-width: 790px;
     margin: auto; 
+    margin-top: 30px;
 }
 
 /*Efeitos vizuais dos cartoes*/
@@ -72,6 +73,11 @@ button:hover{
     color: hsl(179, 100%, 13%);
 }
 
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+
+}
 /*Efeitos vizuais gerais dos icones dos carros e do*/
 
 img {
